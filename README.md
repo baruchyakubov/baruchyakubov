@@ -12,8 +12,6 @@ hours) that qualifies Full Stack developer.
 
 - 📫 How to reach **baruchyaku@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/%D7%91%D7%A8%D7%95%D7%9A%20%D7%99%D7%A2%D7%A7%D7%95%D7%91%D7%95%D7%91/OneDrive/%D7%A9%D7%95%D7%9C%D7%97%D7%9F%20%D7%94%D7%A2%D7%91%D7%95%D7%93%D7%94/updated%20CV.pdf](file:///C:/Users/%D7%91%D7%A8%D7%95%D7%9A%20%D7%99%D7%A2%D7%A7%D7%95%D7%91%D7%95%D7%91/OneDrive/%D7%A9%D7%95%D7%9C%D7%97%D7%9F%20%D7%94%D7%A2%D7%91%D7%95%D7%93%D7%94/updated%20CV.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/baruch-yakubov-93b72b253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baruch-yakubov" height="30" width="40" /></a>
