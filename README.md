@@ -1,4 +1,4 @@
-### Hi there , i'm Baruch Yakubov 👋
+# Hi there , i'm Baruch Yakubov 👋
 ## About me
 I'm Full-Stack / Frontend Web Developer with knowledge and experience
 writing single-page-applications using the latest WEB technologies such as
