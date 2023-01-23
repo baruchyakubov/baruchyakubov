@@ -1,6 +1,15 @@
-### Hi there 👋
+### Hi there , i'm baruch yakubov 👋
+i'm Full-Stack / Frontend Web Developer with knowledge and experience
+writing single-page-applications using the latest WEB technologies such as
+Node.js, Vue.js, Vuex, React.js and Angular.
+Graduate of the Coding Academy - An intensive coding bootcamp (640
+hours) that qualifies Full Stack developer.
 
-<!--
+- 🔭 I’ve recently worked on on airbnb clone project named Renter
+<!-- on this link: https://renter-mqln.onrender.com/#/
+
+- 📫 How to reach me on linkedin: https://www.linkedin.com/in/baruch-yakubov-93b72b253/
+
 **baruchyakubov/baruchyakubov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
