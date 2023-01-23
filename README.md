@@ -5,8 +5,7 @@ Node.js, Vue.js, Vuex, React.js and Angular.
 Graduate of the Coding Academy - An intensive coding bootcamp (640
 hours) that qualifies Full Stack developer.
 
-- 🔭 I’ve recently worked on on airbnb clone project named Renter
-<!-- on this link: https://renter-mqln.onrender.com/#/
+- 🔭 I’ve recently worked on on airbnb clone project named Renter on this link[Renter]: https://renter-mqln.onrender.com/#/
 
 - 📫 How to reach me on linkedin: https://www.linkedin.com/in/baruch-yakubov-93b72b253/
 
